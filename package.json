@@ -1,0 +1,19 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "React practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BApplee/reactjs.git"
+  },
+  "author": "Axel Choque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BApplee/reactjs/issues"
+  },
+  "homepage": "https://github.com/BApplee/reactjs#readme"
+}
